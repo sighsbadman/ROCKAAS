@@ -23,3 +23,8 @@ body{
     background-size: cover;
     background-position: center;
 }
+.prvi img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
